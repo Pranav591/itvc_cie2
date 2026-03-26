@@ -1,0 +1,10 @@
+a="hello"
+b=input("enter your name: ")
+c=int(input("enter your class: "))
+e=int(input("enter your USN: "))
+d=input("enter your section: ")
+print(a)
+print("my name is",b)
+print("i am from class ",c)
+print("Section ",d)
+print("USN",e)
